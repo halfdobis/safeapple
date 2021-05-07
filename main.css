@@ -51,7 +51,6 @@
 
 .body-text {
   background-color: #e3f2fd;
-  text-align: center;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -62,7 +61,7 @@
 .body-text .text {
   width: 350px;
   height: 350px;
-  padding: 100px 7px 0 5px;
+  padding: 50px 10px 0 30px;
   margin-left: 50px;
   background: cornsilk;
   border-radius: 0% 0% 0% 0% / 0% 0% 0% 0%;
